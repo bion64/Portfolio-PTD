@@ -23,17 +23,17 @@ export const singleProjectData = {
 	ProjectImages: [
 		{
 			id: 1,
-			title: 'Kabul Project Management UI',
+			title: 'Bkav Project Management UI',
 			img: Image1,
 		},
 		{
 			id: 2,
-			title: 'Kabul Project Management UI',
+			title: 'CMC Project Management UI',
 			img: Image2,
 		},
 		{
 			id: 3,
-			title: 'Kabul Project Management UI',
+			title: 'FPT Project Management UI',
 			img: Image3,
 		},
 	],
@@ -53,17 +53,17 @@ export const singleProjectData = {
 			{
 				id: 3,
 				title: 'Website',
-				details: 'https://company.com',
+				details: 'https://www.bkav.com/',
 			},
 			{
 				id: 4,
 				title: 'Phone',
-				details: '555 8888 888',
+				details: '0979 022 810',
 			},
 		],
 		ObjectivesHeading: 'Objective',
 		ObjectivesDetails:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+			'To design a modern, clean, and user-friendly project management application for a leading tech company.',
 		Technologies: [
 			{
 				title: 'Tools & Technologies',
@@ -82,22 +82,17 @@ export const singleProjectData = {
 			{
 				id: 1,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
-			},
-			{
-				id: 2,
-				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+					'A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of vuejs-tailwindcss-portfolio.',
 			},
 			{
 				id: 3,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+					'The main challenge was to create an intuitive UI that allows users to easily manage their projects, tasks, and team collaboration all in one place.',
 			},
 			{
 				id: 4,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+					'Ensuring seamless integration with backend services and maintaining high performance across different devices was also a significant challenge.',
 			},
 		],
 		SocialSharingHeading: 'Share This',
@@ -154,7 +149,7 @@ export const singleProjectData = {
 			},
 			{
 				id: 4,
-				title: 'Kabul Mobile App UI',
+				title: 'Bkav Mobile App UI',
 				img: Image3,
 			},
 		],
