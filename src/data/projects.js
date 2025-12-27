@@ -72,7 +72,7 @@ export const projectsData = [
 		title: 'Booking Tours Travel',
 		category: 'Web Application',
 		img: WebImage6,
-		url: "https://ptd25.netlify.app",
+		url: "https://tours-travel-ptd.netlify.app",
 		github: "https://github.com/thanhdao03/Tours-travels",
 		tags: [
 			"ReactJS", "ExpressJS", "MongoDB", "Bootstrap", "Responsive", "RESTful API", "Auth"
