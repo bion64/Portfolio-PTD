@@ -1,7 +1,9 @@
 import { motion } from "framer-motion";
+import { useState } from "react";
 import { FiExternalLink, FiGithub } from "react-icons/fi";
 
 const ProjectSingle = ({ title, category, image, tags, url, github }) => {
+  const [hover, setHover] = useState(false);
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -12,15 +14,30 @@ const ProjectSingle = ({ title, category, image, tags, url, github }) => {
         delay: 0.15,
       }}
     >
-      {/* <Link to="/projects/single-project" aria-label="Single Project"> */}
-      <div className="h-full overflow-hidden rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark">
-        <div>
+      <div className="h-full overflow-hidden rounded-xl shadow-lg hover:shadow-xl mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark">
+        <a
+          className="cursor-pointer"
+          href={url}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            display: "block",
+            overflow: "hidden",
+            borderRadius: "12px",
+          }}
+          onMouseEnter={() => setHover(true)}
+          onMouseLeave={() => setHover(false)}
+        >
           <img
             src={image}
-            className="rounded-t-xl border-none"
             alt="Single Project"
+            style={{
+              width: "100%",
+              transition: "transform 0.5s ease",
+              transform: hover ? "scale(1.1)" : "scale(1)",
+            }}
           />
-        </div>
+        </a>
         <div className="text-center px-4 py-6">
           <p className="font-general-medium text-lg md:text-xl text-ternary-dark dark:text-ternary-light mb-6">
             {title}
@@ -53,7 +70,7 @@ const ProjectSingle = ({ title, category, image, tags, url, github }) => {
             ))}
           </div>
 
-          <div className="mt-auto flex items-center justify-between gap-4">
+          <div className="mt-auto flex items-center justify-between gap-4 cursor-pointer">
             <a
               href={github}
               target="_blank"
@@ -76,7 +93,6 @@ const ProjectSingle = ({ title, category, image, tags, url, github }) => {
           </div>
         </div>
       </div>
-      {/* </Link> */}
     </motion.div>
   );
 };
